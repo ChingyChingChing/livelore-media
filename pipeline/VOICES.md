@@ -7,13 +7,13 @@ Log each one in voice_log.csv so analytics can compare voices. After Short #12, 
 |---|---|---|---|---|
 | 4 | Energetic American | am_michael | 1.18 | en-us |
 | 5 | Energetic British | bm_george | 1.18 | en-gb |
-| 6 | Lively American (Puck) | am_puck | 1.15 | en-us |
-| 7 | Scottish | bm_george | 1.10 | en-gb-scotland |
-| 8 | Caribbean | am_onyx | 1.10 | en-029 |
-| 9 | Indian | hm_omega | 1.05 | en-gb |
-| 10 | Japanese | jm_kumo | 1.05 | en-us |
-| 11 | Chinese | zm_yunxi | 1.05 | en-us |
-| 12 | Italian | im_nicola | 1.05 | en-us |
+| 6 | Lively American (Puck) | am_puck | 1.24 | en-us |
+| 7 | Scottish | bm_george | 1.18 | en-gb-scotland |
+| 8 | Caribbean | am_onyx | 1.18 | en-029 |
+| 9 | Indian | hm_omega | 1.13 | en-gb |
+| 10 | Japanese | jm_kumo | 1.13 | en-us |
+| 11 | Chinese | zm_yunxi | 1.13 | en-us |
+| 12 | Italian | im_nicola | 1.13 | en-us |
 
 Delivery: script text may use exclamation marks and "..." for pauses to sound energetic. Don't use ALL CAPS in the
 spoken text (the pronunciation engine may spell it out letter by letter). Caption chunks are unaffected.

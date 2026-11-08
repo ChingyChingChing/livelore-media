@@ -3,7 +3,7 @@
 The daily Short task reads this file before every run and follows it.
 The weekly analytics task rewrites it every Monday from the data in analytics_log.csv.
 It can tune topics, hooks, length, voice and post time. It can never override the core rules in the task
-instructions (fact-checking, no criminal-allegation stories, original visuals only, privacy, and Marco's
+instructions (fact-checking, no criminal-allegation stories, original visuals only, privacy, and the owner's
 approval before anything is scheduled).
 
 Last updated: 2026-11-07 (starting defaults, no data yet)
@@ -23,8 +23,12 @@ Last updated: 2026-11-07 (starting defaults, no data yet)
 ## Voice
 - Follow the VOICES.md rotation until Short #12 (voice test). After that, use the voice chosen here.
 
+## Voice speed
+- Main voices about 1.27 (1.18 is too slow, 1.35 slightly too fast). Tune only within 1.22-1.32; accent voices proportionally slower (see VOICES.md).
+
 ## Post time
 - 07:00 Asia/Hong_Kong daily. Allowed range for changes: 06:00–22:00 HKT, one daily slot.
 
 ## Changelog
 - 2026-11-07: starting defaults.
+- 2026-11-08: voice speed restored to ~1.27 after files were reverted to old values.
