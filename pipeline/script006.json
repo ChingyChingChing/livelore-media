@@ -1,0 +1,21 @@
+[
+ {"text": "Would you bet over four hundred million dollars... on one ancient story?",
+  "chunks": [["WOULD YOU BET", 3], ["OVER $400 MILLION…", 5], ["ON ONE", 2], ["ANCIENT STORY?", 4]]},
+ {"text": "That's reportedly what India spent on Ramayana, across two films. Part one opened November fifth, two days before Diwali.", "pause": 0.25,
+  "chunks": [["THAT'S REPORTEDLY", 4], ["WHAT INDIA SPENT", 4], ["ON RAMAYANA,", 4], ["ACROSS 2 FILMS.", 4], ["PART 1 OPENED", 3], ["NOVEMBER 5TH,", 3], ["2 DAYS BEFORE", 3], ["DIWALI.", 2]]},
+ {"text": "Ranbir Kapoor plays Ram. Sai Pallavi is Sita. And Yash plays the demon king, Ravana!", "pause": 0.2,
+  "chunks": [["RANBIR KAPOOR", 4], ["PLAYS RAM.", 3], ["SAI PALLAVI", 3], ["IS SITA.", 2], ["AND YASH PLAYS", 3], ["THE DEMON KING,", 4], ["RAVANA!", 3]]},
+ {"text": "Three days in, it reportedly crossed one hundred fifty crore rupees in India alone.", "pause": 0.25,
+  "chunks": [["3 DAYS IN,", 3], ["IT REPORTEDLY", 4], ["CROSSED", 2], ["150 CRORE RUPEES", 5], ["IN INDIA ALONE.", 4]]},
+ {"text": "And overseas? Around ten million dollars... in just two days.", "pause": 0.2,
+  "chunks": [["AND OVERSEAS?", 3], ["AROUND", 2], ["$10 MILLION…", 4], ["IN JUST", 2], ["2 DAYS.", 2]]},
+ {"text": "Why it matters?", "pause": 0.35, "chunks": [["WHY IT MATTERS?", 4]]},
+ {"text": "Diwali is one of India's biggest festival seasons, and this epic is betting the whole holiday weekend on itself.",
+  "chunks": [["DIWALI IS ONE OF", 4], ["INDIA'S BIGGEST", 3], ["FESTIVAL SEASONS,", 4], ["AND THIS EPIC", 3], ["IS BETTING", 3], ["THE WHOLE HOLIDAY", 4], ["WEEKEND ON ITSELF.", 4]]},
+ {"text": "The catch? Trackers disagree on the opening day... so treat every number as an estimate.", "pause": 0.25,
+  "chunks": [["THE CATCH?", 3], ["TRACKERS DISAGREE", 4], ["ON THE OPENING DAY…", 5], ["SO TREAT EVERY NUMBER", 5], ["AS AN ESTIMATE.", 4]]},
+ {"text": "My take? When the story is thousands of years old, the hype comes pre-installed.", "pause": 0.35,
+  "chunks": [["MY TAKE?", 2], ["WHEN THE STORY IS", 4], ["THOUSANDS OF", 3], ["YEARS OLD,", 3], ["THE HYPE COMES", 4], ["PRE-INSTALLED.", 4]]},
+ {"text": "Big screen or streaming?", "pause": 0.3, "chunks": [["BIG SCREEN", 3], ["OR STREAMING?", 4]]},
+ {"text": "Full breakdown in Sunday's recap.", "chunks": [["FULL BREAKDOWN", 3], ["IN SUNDAY'S", 3], ["RECAP.", 2]]}
+]
