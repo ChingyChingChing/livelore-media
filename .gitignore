@@ -1,0 +1,5 @@
+*.onnx
+*.bin
+in/
+stills/
+__pycache__/

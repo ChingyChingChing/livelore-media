@@ -1,0 +1,22 @@
+[
+ {"text": "The biggest Resident Evil movie ever just hit digital rental, and it beat every forecast.",
+  "chunks": [["THE BIGGEST", 3], ["RESIDENT EVIL", 5], ["MOVIE EVER", 3], ["JUST HIT", 2], ["DIGITAL RENTAL,", 5], ["AND IT BEAT", 3], ["EVERY FORECAST.", 4]]},
+ {"text": "Zach Cregger's Resident Evil opened September eighteenth with a sixty-million-dollar US weekend, the best debut in the franchise's history.", "pause": 0.3,
+  "chunks": [["ZACH CREGGER'S", 3], ["RESIDENT EVIL", 5], ["OPENED SEPT 18TH", 6], ["WITH A $60M", 7], ["US WEEKEND,", 3], ["THE BEST DEBUT", 3], ["IN THE FRANCHISE'S", 4], ["HISTORY.", 3]]},
+ {"text": "Worldwide, it's reportedly past four hundred million dollars, making it Cregger's biggest film ever, ahead of Weapons.",
+  "chunks": [["WORLDWIDE,", 3], ["IT'S REPORTEDLY", 4], ["PAST $400 MILLION,", 7], ["MAKING IT", 3], ["CREGGER'S BIGGEST", 4], ["FILM EVER,", 2], ["AHEAD OF WEAPONS.", 5]]},
+ {"text": "Since November third, you can rent or buy it at home.",
+  "chunks": [["SINCE NOVEMBER 3RD,", 5], ["YOU CAN RENT", 3], ["OR BUY IT", 3], ["AT HOME.", 2]]},
+ {"text": "Here's the twist.", "pause": 0.35, "chunks": [["HERE'S THE TWIST.", 3]]},
+ {"text": "It's not a game remake.", "chunks": [["IT'S NOT A", 3], ["GAME REMAKE.", 3]]},
+ {"text": "It's an original story with a brand-new lead, and some gamers pushed back.",
+  "chunks": [["IT'S AN", 2], ["ORIGINAL STORY", 5], ["WITH A", 2], ["BRAND-NEW LEAD,", 3], ["AND SOME GAMERS", 4], ["PUSHED BACK.", 2]]},
+ {"text": "But remember, Resident Evil started as a Japanese Capcom game back in nineteen ninety-six.", "pause": 0.3,
+  "chunks": [["BUT REMEMBER,", 4], ["RESIDENT EVIL", 5], ["STARTED AS A", 4], ["JAPANESE", 3], ["CAPCOM GAME", 3], ["BACK IN 1996.", 6]]},
+ {"text": "And no earlier Resident Evil film ever hit a hundred million dollars in the US.",
+  "chunks": [["AND NO EARLIER", 4], ["RESIDENT EVIL FILM", 6], ["EVER HIT", 3], ["$100 MILLION", 5], ["IN THE US.", 3]]},
+ {"text": "This one did.", "pause": 0.25, "chunks": [["THIS ONE DID.", 3]]},
+ {"text": "Are you renting it, or waiting for streaming?", "pause": 0.35,
+  "chunks": [["ARE YOU", 2], ["RENTING IT,", 3], ["OR WAITING", 3], ["FOR STREAMING?", 3]]},
+ {"text": "Full breakdown in Sunday's recap.", "chunks": [["FULL BREAKDOWN", 3], ["IN SUNDAY'S", 3], ["RECAP.", 2]]}
+]
