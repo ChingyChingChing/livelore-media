@@ -6,7 +6,7 @@ It can tune topics, hooks, length, voice and post time. It can never override th
 instructions (fact-checking, no criminal-allegation stories, original visuals only, privacy, and the owner's
 approval before anything is scheduled).
 
-Last updated: 2026-11-07 (starting defaults, no data yet)
+Last updated: 2026-11-09 (no per-video data yet, nothing changed)
 
 ## Topics
 - Mix: ~60% global headline stories, ~40% Asia-angle stories (at least 2 Asia-angle a week).
@@ -32,3 +32,4 @@ Last updated: 2026-11-07 (starting defaults, no data yet)
 ## Changelog
 - 2026-11-07: starting defaults.
 - 2026-11-08: voice speed restored to ~1.27 after files were reverted to old values.
+- 2026-11-09: weekly review. Only 2 subs and no per-video stats available (YouTube lag, 2 Shorts live). No change made.

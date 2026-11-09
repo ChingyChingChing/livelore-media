@@ -2,7 +2,7 @@
 
 How to make a Short that people watch to the end. The daily task reads this with strategy.md before writing each script.
 strategy.md = what OUR data says (wins when they disagree). playbook.md = what research on short-form video says.
-The weekly task refreshes this file. Last updated: 2026-11-08 (first version, research only, no channel data yet).
+The weekly task refreshes this file. Last updated: 2026-11-09 (research only, no channel data yet).
 
 ## What YouTube rewards (how distribution works)
 - Each Short is first shown to a small test audience; if they watch and don't swipe, it is pushed wider. "The audience is the algorithm." (YouTube Shorts lead Todd Sherman, Creator Insider 2023, via OutlierKit; vidIQ 2026)
@@ -35,9 +35,18 @@ The weekly task refreshes this file. Last updated: 2026-11-08 (first version, re
 - Keep one question CTA ("Remake or original?") to invite comments; keep "Full breakdown in Sunday's recap".
 - Set each Short's related video to the latest long recap once those exist. (vidIQ)
 
+## Length limit and YPP routes (checked 2026-11-09)
+- Shorts can be up to 3 minutes since Oct 2024; no official ideal length, retention matters more than runtime. Vendor blogs say ~20-45 s is a sweet spot; none is from YouTube, so treat as weak/unverified. (Toptal, miraflow, gofaceless via search; Search Engine Journal)
+- Shorts YPP route is 1,000 subscribers + 10M valid public Shorts views in 90 days; long-form route is 1,000 subs + 4,000 (full-tier 8,000 in our goal) watch hours. One unconfirmed report (Notebookcheck) of a stricter 2027 bar: UNVERIFIED, do not act on it.
+- Since 31 Mar 2025 a Shorts view counts on play/replay with no minimum; "engaged views" is the metric tied to YPP. (SEJ, TechCrunch)
+- Open loops / escalating structure are said to lift mid-video retention (aibrify, vendor blog; weak). A 20 s Short at 85% retention beats a 60 s at 50%: judge by retention %.
+
 ## Still unknown (needs our own data)
 - Which hook pattern works for our audience; best length; best voice (voice test until Short #12); Asia-angle vs global; post time.
 - Viewed-vs-swiped and the retention curve are only in YouTube Studio; tools here can't read them. A screenshot pasted weekly would help.
+
+## Changelog
+- 2026-11-09: added length-limit and YPP-route section; flagged vendor length/hook benchmarks as unverified. No channel data to act on yet.
 
 ## Sources
 - vidIQ, "How Does the YouTube Shorts Algorithm Work in 2026?" https://vidiq.com/blog/post/youtube-shorts-algorithm/
