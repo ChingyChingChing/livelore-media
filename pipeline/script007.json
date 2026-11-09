@@ -1,0 +1,20 @@
+[
+ {"text": "The Grammys built a category for Asian pop... and BTS said no thanks!",
+  "chunks": [["THE GRAMMYS BUILT", 4], ["A CATEGORY", 3], ["FOR ASIAN POP…", 4], ["AND BTS", 2], ["SAID NO THANKS!", 4]]},
+ {"text": "In June, the Recording Academy added Best Asian Pop Music Performance, its first award for K-pop, J-pop and C-pop.", "pause": 0.25,
+  "chunks": [["IN JUNE, THE", 3], ["RECORDING ACADEMY", 4], ["ADDED BEST ASIAN", 4], ["POP MUSIC", 3], ["PERFORMANCE,", 3], ["ITS FIRST AWARD", 3], ["FOR K-POP,", 2], ["J-POP AND C-POP.", 4]]},
+ {"text": "The catch? Entries reportedly need meaningful use of an Asian language, which would leave out BTS's English-language hits.", "pause": 0.25,
+  "chunks": [["THE CATCH?", 3], ["ENTRIES REPORTEDLY", 4], ["NEED MEANINGFUL USE", 4], ["OF AN ASIAN LANGUAGE,", 5], ["WHICH WOULD LEAVE OUT", 5], ["BTS'S ENGLISH HITS.", 4]]},
+ {"text": "So in July, BTS said it won't submit music for the 2027 Grammys, hoping songs aren't sorted by region or language.", "pause": 0.25,
+  "chunks": [["SO IN JULY,", 3], ["BTS SAID IT WON'T", 4], ["SUBMIT MUSIC", 3], ["FOR THE 2027 GRAMMYS,", 5], ["HOPING SONGS", 3], ["AREN'T SORTED BY", 4], ["REGION OR LANGUAGE.", 4]]},
+ {"text": "The Grammy CEO said he was saddened... but defended the category.", "pause": 0.25,
+  "chunks": [["THE GRAMMY CEO", 4], ["SAID HE WAS SADDENED…", 5], ["BUT DEFENDED", 3], ["THE CATEGORY.", 3]]},
+ {"text": "Meanwhile, Filipino acts Cup of Joe, SB19 and BINI have reportedly entered it.", "pause": 0.25,
+  "chunks": [["MEANWHILE, FILIPINO ACTS", 5], ["CUP OF JOE,", 3], ["SB19 AND BINI", 3], ["HAVE REPORTEDLY", 3], ["ENTERED IT.", 2]]},
+ {"text": "Nominations drop Monday, November sixteenth.", "pause": 0.25,
+  "chunks": [["NOMINATIONS DROP", 3], ["MONDAY,", 2], ["NOVEMBER 16TH.", 3]]},
+ {"text": "My take? A category can be a spotlight... or a box. It depends who builds it.", "pause": 0.35,
+  "chunks": [["MY TAKE?", 2], ["A CATEGORY CAN BE", 4], ["A SPOTLIGHT…", 3], ["OR A BOX.", 3], ["IT DEPENDS", 2], ["WHO BUILDS IT.", 3]]},
+ {"text": "Spotlight or box?", "pause": 0.3, "chunks": [["SPOTLIGHT", 3], ["OR BOX?", 3]]},
+ {"text": "Full breakdown in Sunday's recap.", "chunks": [["FULL BREAKDOWN", 3], ["IN SUNDAY'S", 3], ["RECAP.", 2]]}
+]
