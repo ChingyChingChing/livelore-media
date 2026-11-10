@@ -20,6 +20,12 @@ Last updated: 2026-11-09 (no per-video data yet, nothing changed)
 ## Length
 - Target 45–55 s of narration (hard limit 58 s).
 
+## Tone
+- OWNER INSTRUCTION (2026-11-10): scripts should be more casual, with Gen Z / Gen Alpha slang (e.g. "no cap", "lowkey", "it's giving", "cooked", "locked in", "rizz", "the vibes", "W / L", "bet", "ate", "fr"). Sound like a friend telling the story, not a news anchor.
+- Keep it natural: 2-4 slang terms per Short, never forced, and don't use slang that mocks people or sits awkwardly on serious stories (e.g. deaths, tragedies). Facts, "reportedly" wording and the fact-check rules stay exactly as strict as before.
+- No ALL CAPS in spoken text; spell slang the way Kokoro can pronounce it (test odd words like "rizz", "skibidi" before rendering).
+- The weekly analytics task must not remove this without the owner's say.
+
 ## Voice
 - Follow the VOICES.md rotation until Short #12 (voice test). After that, use the voice chosen here.
 
@@ -35,3 +41,4 @@ Last updated: 2026-11-09 (no per-video data yet, nothing changed)
 - 2026-11-08: voice speed restored to ~1.27 after files were reverted to old values.
 - 2026-11-09: weekly review. Only 2 subs and no per-video stats available (YouTube lag, 2 Shorts live). No change made.
 - 2026-11-10: owner asked for faster narration; 2.0 was too fast, settled on speed 1.3 for future Shorts.
+- 2026-11-10: owner asked for casual Gen Z / Gen Alpha slang in scripts.
