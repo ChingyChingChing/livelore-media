@@ -24,7 +24,8 @@ Last updated: 2026-11-09 (no per-video data yet, nothing changed)
 - Follow the VOICES.md rotation until Short #12 (voice test). After that, use the voice chosen here.
 
 ## Voice speed
-- Main voices about 1.27 (1.18 is too slow, 1.35 slightly too fast). Tune only within 1.22-1.32; accent voices proportionally slower (see VOICES.md).
+- OWNER INSTRUCTION (2026-11-10): make the narration 2x faster than before, from Short #9 on. Use roughly double the VOICES.md speed, capped at the Kokoro maximum of 2.0 (so ~2.0 for 1.0-1.18 base speeds). The weekly analytics task must not lower this without the owner's say.
+- Because the audio is much faster, write longer scripts (~2x the words, ~170-200 words) to still land at 45-55 s, and keep the first-3-seconds hook. If 2.0 is unintelligible in a test, report it and fall back to the highest clear speed.
 
 ## Post time
 - 07:00 Asia/Hong_Kong daily. Allowed range for changes: 06:00–22:00 HKT, one daily slot.
@@ -33,3 +34,4 @@ Last updated: 2026-11-09 (no per-video data yet, nothing changed)
 - 2026-11-07: starting defaults.
 - 2026-11-08: voice speed restored to ~1.27 after files were reverted to old values.
 - 2026-11-09: weekly review. Only 2 subs and no per-video stats available (YouTube lag, 2 Shorts live). No change made.
+- 2026-11-10: owner asked for 2x faster narration for future Shorts (speed ~2.0, longer scripts to fill 45-55 s).
