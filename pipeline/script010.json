@@ -1,0 +1,302 @@
+[
+ {
+  "text": "The biggest movie in Japan this year isn't an action blockbuster... it's about something small and cute.",
+  "chunks": [
+   [
+    "THE BIGGEST MOVIE",
+    4
+   ],
+   [
+    "IN JAPAN",
+    2
+   ],
+   [
+    "THIS YEAR",
+    2
+   ],
+   [
+    "ISN'T AN ACTION",
+    4
+   ],
+   [
+    "BLOCKBUSTER…",
+    3
+   ],
+   [
+    "IT'S ABOUT SOMETHING",
+    5
+   ],
+   [
+    "SMALL AND CUTE.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "Literally! Chiikawa comes from a Japanese phrase meaning something small and cute.",
+  "pause": 0.2,
+  "chunks": [
+   [
+    "LITERALLY!",
+    3
+   ],
+   [
+    "CHIIKAWA COMES",
+    4
+   ],
+   [
+    "FROM A JAPANESE",
+    4
+   ],
+   [
+    "PHRASE MEANING",
+    3
+   ],
+   [
+    "SOMETHING",
+    2
+   ],
+   [
+    "SMALL AND CUTE.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "Chiikawa the Movie opened in Japan on July 24th... and it just won't leave cinemas.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "CHIIKAWA THE MOVIE",
+    5
+   ],
+   [
+    "OPENED IN JAPAN",
+    4
+   ],
+   [
+    "ON JULY 24TH…",
+    4
+   ],
+   [
+    "AND IT JUST",
+    3
+   ],
+   [
+    "WON'T LEAVE",
+    3
+   ],
+   [
+    "CINEMAS.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "As of November 8th, it's made 18.79 billion yen, with 12.86 million tickets sold.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "AS OF NOVEMBER 8TH,",
+    5
+   ],
+   [
+    "IT'S MADE",
+    2
+   ],
+   [
+    "¥18.79 BILLION,",
+    8
+   ],
+   [
+    "WITH 12.86 MILLION",
+    8
+   ],
+   [
+    "TICKETS SOLD.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "That's way ahead of this year's Detective Conan movie... and Conan is basically a box office boss in Japan.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "THAT'S WAY AHEAD",
+    4
+   ],
+   [
+    "OF THIS YEAR'S",
+    3
+   ],
+   [
+    "DETECTIVE CONAN",
+    5
+   ],
+   [
+    "MOVIE…",
+    2
+   ],
+   [
+    "AND CONAN IS",
+    3
+   ],
+   [
+    "BASICALLY A",
+    3
+   ],
+   [
+    "BOX OFFICE BOSS",
+    4
+   ],
+   [
+    "IN JAPAN.",
+    2
+   ]
+  ]
+ },
+ {
+  "text": "It's now number 12 on Japan's all-time chart, and Toho is aiming for 20 billion yen by the end of the year.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "IT'S NOW NO. 12",
+    5
+   ],
+   [
+    "ON JAPAN'S",
+    3
+   ],
+   [
+    "ALL-TIME CHART,",
+    4
+   ],
+   [
+    "AND TOHO",
+    3
+   ],
+   [
+    "IS AIMING FOR",
+    4
+   ],
+   [
+    "¥20 BILLION",
+    5
+   ],
+   [
+    "BY THE END",
+    3
+   ],
+   [
+    "OF THE YEAR.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "The secret weapon? Free gifts for ticket buyers... 12 rounds of them so far.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "THE SECRET WEAPON?",
+    5
+   ],
+   [
+    "FREE GIFTS",
+    3
+   ],
+   [
+    "FOR TICKET BUYERS…",
+    5
+   ],
+   [
+    "12 ROUNDS",
+    3
+   ],
+   [
+    "OF THEM SO FAR.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "And here in Hong Kong, it reportedly made over 25 million Hong Kong dollars.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "AND HERE",
+    2
+   ],
+   [
+    "IN HONG KONG,",
+    3
+   ],
+   [
+    "IT REPORTEDLY MADE",
+    5
+   ],
+   [
+    "OVER HK$25 MILLION.",
+    9
+   ]
+  ]
+ },
+ {
+  "text": "My take? Cute is lowkey undefeated... and this movie ate, no cap.",
+  "pause": 0.35,
+  "chunks": [
+   [
+    "MY TAKE?",
+    2
+   ],
+   [
+    "CUTE IS LOWKEY",
+    4
+   ],
+   [
+    "UNDEFEATED…",
+    4
+   ],
+   [
+    "AND THIS MOVIE ATE,",
+    5
+   ],
+   [
+    "NO CAP.",
+    2
+   ]
+  ]
+ },
+ {
+  "text": "Have you seen it yet?",
+  "pause": 0.3,
+  "chunks": [
+   [
+    "HAVE YOU",
+    2
+   ],
+   [
+    "SEEN IT YET?",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    3
+   ],
+   [
+    "IN SUNDAY'S",
+    3
+   ],
+   [
+    "RECAP.",
+    2
+   ]
+  ]
+ }
+]
