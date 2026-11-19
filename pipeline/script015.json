@@ -1,0 +1,403 @@
+[
+ {
+  "text": "Quick quiz... what's the word of the year for 2026? Because three dictionaries just gave three totally different answers.",
+  "chunks": [
+   [
+    "QUICK QUIZ…",
+    3
+   ],
+   [
+    "WHAT'S THE",
+    3
+   ],
+   [
+    "WORD OF",
+    2
+   ],
+   [
+    "THE YEAR",
+    2
+   ],
+   [
+    "FOR 2026?",
+    4
+   ],
+   [
+    "3 DICTIONARIES",
+    5
+   ],
+   [
+    "GAVE 3",
+    3
+   ],
+   [
+    "TOTALLY DIFFERENT",
+    5
+   ],
+   [
+    "ANSWERS.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Dictionary dot com went first, in October, with maxxing... as in pushing anything to the max.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "DICTIONARY.COM",
+    5
+   ],
+   [
+    "WENT FIRST,",
+    3
+   ],
+   [
+    "IN OCTOBER,",
+    4
+   ],
+   [
+    "WITH \"MAXXING\"…",
+    5
+   ],
+   [
+    "AS IN PUSHING",
+    4
+   ],
+   [
+    "ANYTHING",
+    3
+   ],
+   [
+    "TO THE MAX.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "They say it captures a society that's deeply online and focused on optimizing everything.",
+  "pause": 0.2,
+  "chunks": [
+   [
+    "IT CAPTURES",
+    4
+   ],
+   [
+    "A SOCIETY",
+    3
+   ],
+   [
+    "THAT'S DEEPLY",
+    4
+   ],
+   [
+    "ONLINE",
+    2
+   ],
+   [
+    "AND FOCUSED ON",
+    5
+   ],
+   [
+    "OPTIMIZING",
+    4
+   ],
+   [
+    "EVERYTHING.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Then Collins picked mogging... Gen Z slang for totally outshining someone. Collins says its use jumped 210% this year.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "THEN COLLINS",
+    4
+   ],
+   [
+    "PICKED",
+    2
+   ],
+   [
+    "\"MOGGING\"…",
+    3
+   ],
+   [
+    "GEN Z SLANG",
+    4
+   ],
+   [
+    "FOR OUTSHINING",
+    5
+   ],
+   [
+    "SOMEONE.",
+    3
+   ],
+   [
+    "COLLINS SAYS",
+    4
+   ],
+   [
+    "USE JUMPED",
+    3
+   ],
+   [
+    "210%",
+    5
+   ],
+   [
+    "THIS YEAR.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "And this week, Cambridge was like, nah... the word is human.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "AND THIS WEEK,",
+    4
+   ],
+   [
+    "CAMBRIDGE",
+    3
+   ],
+   [
+    "WAS LIKE, NAH…",
+    4
+   ],
+   [
+    "THE WORD IS",
+    3
+   ],
+   [
+    "\"HUMAN.\"",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Why? Cambridge says people keep writing things like human-made and human-written, to separate real people's work from AI.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "WHY?",
+    2
+   ],
+   [
+    "PEOPLE KEEP",
+    3
+   ],
+   [
+    "WRITING",
+    2
+   ],
+   [
+    "\"HUMAN-MADE\"",
+    4
+   ],
+   [
+    "AND",
+    1
+   ],
+   [
+    "\"HUMAN-WRITTEN\"",
+    5
+   ],
+   [
+    "TO SEPARATE",
+    4
+   ],
+   [
+    "REAL PEOPLE'S",
+    4
+   ],
+   [
+    "WORK FROM AI.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "The other contenders? Agent, as in AI agents, plus wholesome and analogue. The vibes are very touch grass.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "OTHER CONTENDERS?",
+    5
+   ],
+   [
+    "\"AGENT\"",
+    2
+   ],
+   [
+    "AS IN",
+    2
+   ],
+   [
+    "AI AGENTS,",
+    3
+   ],
+   [
+    "PLUS \"WHOLESOME\"",
+    4
+   ],
+   [
+    "AND \"ANALOGUE.\"",
+    4
+   ],
+   [
+    "THE VIBES:",
+    3
+   ],
+   [
+    "TOUCH GRASS.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Meanwhile Japan is still deciding. Its buzzword prize shortlist of 30 includes Chiikawa and a baby monkey called Punch koon, with the winner out December 1st.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "MEANWHILE",
+    3
+   ],
+   [
+    "JAPAN IS",
+    3
+   ],
+   [
+    "STILL DECIDING.",
+    4
+   ],
+   [
+    "ITS BUZZWORD",
+    4
+   ],
+   [
+    "SHORTLIST",
+    3
+   ],
+   [
+    "OF 30",
+    2
+   ],
+   [
+    "INCLUDES",
+    3
+   ],
+   [
+    "CHIIKAWA",
+    3
+   ],
+   [
+    "AND A BABY",
+    3
+   ],
+   [
+    "MONKEY CALLED",
+    4
+   ],
+   [
+    "PUNCH-KUN,",
+    3
+   ],
+   [
+    "WINNER OUT",
+    3
+   ],
+   [
+    "DEC 1.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "My take? When human has to win word of the year, that's lowkey cooked... for real.",
+  "pause": 0.35,
+  "chunks": [
+   [
+    "MY TAKE?",
+    3
+   ],
+   [
+    "WHEN \"HUMAN\"",
+    4
+   ],
+   [
+    "HAS TO WIN",
+    3
+   ],
+   [
+    "WORD OF",
+    2
+   ],
+   [
+    "THE YEAR,",
+    2
+   ],
+   [
+    "THAT'S LOWKEY",
+    4
+   ],
+   [
+    "COOKED…",
+    2
+   ],
+   [
+    "FOR REAL.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "So which one gets your vote... maxxing, mogging, or human?",
+  "pause": 0.3,
+  "chunks": [
+   [
+    "SO WHICH ONE",
+    4
+   ],
+   [
+    "GETS YOUR VOTE…",
+    4
+   ],
+   [
+    "MAXXING,",
+    2
+   ],
+   [
+    "MOGGING,",
+    2
+   ],
+   [
+    "OR HUMAN?",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    5
+   ],
+   [
+    "IN SUNDAY'S",
+    3
+   ],
+   [
+    "RECAP.",
+    2
+   ]
+  ]
+ }
+]
