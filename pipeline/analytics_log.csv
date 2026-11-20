@@ -11,3 +11,7 @@ short,publish_date,title,url,views,watch_min,avg_view_s,length_s,retention_pct,l
 10,2026-11-16,,,,,,52.0,,,,,contradiction,jm_kumo (Japanese),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 206
 11,2026-11-17,,,,,,49.1,,,,,direct_question,zm_yunxi (Chinese),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Channel daily views not yet available (YouTube lag ~2 days)
 12,2026-11-18,,,,,,51.3,,,,,nobody_talking_about,im_nicola (Italian),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Channel daily views not yet available (YouTube lag ~2 days)
+13,2026-11-19,,,,,,54.5,,,,,surprising_number,am_puck,yes,2026-11-20,Metricool returned no per-video stats. Channel daily views not yet available (YouTube lag ~2 days or not yet published)
+14,2026-11-20,,,,,,54.8,,,,,contradiction,am_puck,no,2026-11-20,Metricool returned no per-video stats. Channel daily views not yet available (YouTube lag ~2 days or not yet published)
+15,2026-11-22,,,,,,54.2,,,,,direct_question,am_puck,yes,2026-11-20,Metricool returned no per-video stats. Channel daily views not yet available (YouTube lag ~2 days or not yet published)
+16,2026-11-23,,,,,,54.6,,,,,nobody_talking_about,am_puck,yes,2026-11-20,Metricool returned no per-video stats. Channel daily views not yet available (YouTube lag ~2 days or not yet published)

@@ -33,7 +33,7 @@ The weekly task refreshes this file. Last updated: 2026-11-20 (research only; st
 - No ideal length per YouTube: "to what length do you need to tell your story?" (Sherman)
 - Guides suggest 15-30 s keeps the highest retention and that drop-off rises past ~45 s unless the content is strong; one large study found 13 s and 60 s Shorts did best. (OpusClip; vidIQ citing Nate Black) Evidence is mixed and mostly unverified.
 - Adobe Express survey of 507 creators (1k+ subs): 46% think under 30 s is best for views/shares; for subscriber growth, under-30 s and 30–60 s tied at 34%. This is opinion, not measured retention. (Adobe Express, 2026)
-- Our Shorts 1–12 ran 41–55 s (11 of 12 at 45–55 s). TEST now running (strategy.md, from 2026-11-20): odd Shorts ~35–40 s, even ~48–52 s; weekly analytics decides by retention %, not raw views.
+- Our Shorts 1–16 ran 41–55 s (15 of 16 at 45–55 s). TEST (strategy.md, from Short 17): odd Shorts ~35–40 s, even ~48–52 s; weekly analytics decides by retention %, not raw views.
 
 ## Ending and loop
 - End fast after the payoff; the last line can flow back into the first (loops count as views and signal rewatch value).
@@ -47,7 +47,7 @@ The weekly task refreshes this file. Last updated: 2026-11-20 (research only; st
 - Open loops / escalating structure are said to lift mid-video retention (aibrify, vendor blog; weak). A 20 s Short at 85% retention beats a 60 s at 50%: judge by retention %.
 
 ## Still unknown (needs our own data)
-- Which hook pattern works for our audience; best length (35–40 s vs ~50 s test from Short 13); best voice (12-Short test finished but no per-video data, round 2 running); Asia-angle vs global (10 of 12 were Asia-angle, too few global to compare); post time.
+- Which hook pattern works for our audience; best length (35–40 s vs ~50 s test from Short 17); best voice (12-Short test finished but no per-video data; am_puck is the default since Short 13); Asia-angle vs global (13 of 16 were Asia-angle, too few global to compare); post time.
 - Per-video stats: Metricool lists only Shorts 1–3 and returns blank views/watch time for them (checked 2026-11-20). Until that is fixed, Studio screenshots are the only per-video source.
 - Viewed-vs-swiped and the retention curve are only in YouTube Studio; tools here can't read them. A screenshot pasted weekly would help.
 - Whether the "fresh over evergreen" Shorts change is real (unconfirmed).

@@ -20,9 +20,9 @@ Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: le
   log hook_type every time. No winner yet: no per-video stats (as of 2026-11-20).
 
 ## Length
-- TEST (from 2026-11-20): alternate by Short number. Odd-numbered Shorts (13, 15, ...): ~35–40 s of narration.
-  Even-numbered Shorts (14, 16, ...): ~48–52 s. Hard limit 58 s. Log the real length_s in shorts_log.csv.
-- Why: 11 of 12 Shorts so far ran 45–55 s (only #6 at 40.9 s), so we have nothing to compare. The weekly task
+- TEST (from Short 17): alternate by Short number. Odd-numbered Shorts (17, 19, ...): ~35–40 s of narration.
+  Even-numbered Shorts (18, 20, ...): ~48–52 s. Hard limit 58 s. Log the real length_s in shorts_log.csv.
+- Why: 15 of 16 Shorts so far ran 45–55 s (only #6 at 40.9 s; #13–16 all ~54.5 s), so we have nothing to compare. The weekly task
   will judge by retention % (avg view duration ÷ length), not raw views, once per-video stats arrive.
 - For a ~35–40 s Short: one hook line, 3–4 fact beats, one payoff, one short CTA. Cut context, not facts or sourcing.
 
@@ -33,12 +33,12 @@ Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: le
 - The weekly analytics task must not remove this without the owner's say.
 
 ## Voice
-- The 12-Short test is done but NO winner can be named: Metricool has returned no per-video views or watch time
-  for any Short (as of 2026-11-20). Until the weekly task names a voice here, run the VOICES.md rotation a second
-  time in the same order (Short 13 = am_michael, 14 = bm_george, 15 = am_puck, 16 = bm_george Scottish,
-  17 = am_onyx Caribbean, 18 = hm_omega, 19 = jm_kumo, 20 = zm_yunxi, 21 = im_nicola) so every voice gets a 2nd data point.
+- Current default: am_puck (Lively American) at 1.3, as the daily task has used since Short 13. Keep it.
+- No data-backed winner from the 12-Short test: Metricool has returned no per-video views or watch time for any
+  Short (as of 2026-11-20), so the weekly task is not naming or switching voices yet.
 - Weak lead only (not a decision): the two biggest whole-channel view days were am_michael days (#2: 856, #4: 992);
-  the two smallest were bm_george days (#3: 57, #5: 63). Daily channel views mix all videos, so this is not proof.
+  the two smallest were bm_george days (#3: 57, #5: 63); am_puck's day (#6) had 331. Daily channel views mix all
+  videos, so this is not proof. Revisit when per-video stats or Studio screenshots arrive.
 
 ## Voice speed
 - OWNER INSTRUCTION (2026-11-10): narration speed 1.3 for future Shorts (owner tried 2.0, too fast). VOICES.md speeds (about 1.13-1.24) are slightly slower than this; use 1.3 for the main voices, accent voices proportionally slower. The weekly analytics task must not change this without the owner's say.
@@ -57,5 +57,6 @@ Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: le
 - 2026-11-10: owner asked for casual Gen Z / Gen Alpha slang in scripts.
 - 2026-11-20: weekly review. Metricool still gives no per-video stats (only Shorts 1–3 listed, all blank), so
   hooks, voice, topics and post time are unchanged. One change: length A/B test (odd Shorts ~35–40 s, even ~48–52 s)
-  because 11 of 12 Shorts were 45–55 s and there was nothing to compare. Voice: no winner; rotation round 2.
-  Speed band clarified to 1.22–1.32 (accent voices 1.25, as already used).
+  from Short 17, because 15 of 16 Shorts were 45–55 s and there was nothing to compare. Voice: no data-backed
+  winner; keep am_puck 1.3 (current default since Short 13).
+  Speed band clarified to 1.22–1.32 (accent voices 1.25 if ever used again).
