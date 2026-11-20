@@ -1,3 +1,13 @@
 short,publish_date,title,url,views,watch_min,avg_view_s,length_s,retention_pct,likes,comments,shares,hook_type,voice,asia_angle,last_updated,note
-1,2026-11-07,,,,,,,,,,,,Descript Lawrence,yes,2026-11-09,Metricool returned no per-video rows yet (YouTube lag ~2 days)
-2,2026-11-08,,,,,,,,,,,,am_michael,no,2026-11-09,no per-video rows yet
+1,2026-11-07,Godzilla Is Back… and He Didn't Come Alone 👀,https://www.youtube.com/watch?v=AsUYA6-8W5c,,,,,,,,,,Descript Lawrence,yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 279
+2,2026-11-08,The Biggest Resident Evil Movie Ever Is Now at Home 👀,https://www.youtube.com/watch?v=6xGqi94DnGk,,,,,,,,,,am_michael,no,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 856
+3,2026-11-09,This K-Drama Broke a Disney+ Record… and Korea Is Roasting It 👀,https://www.youtube.com/watch?v=JLihWS8zdlo,,,,,,,,,,bm_george,yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 57
+4,2026-11-10,,,,,,,,,,,,am_michael,yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 992
+5,2026-11-11,,,,,,,,,,,surprising_number,bm_george,yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 63
+6,2026-11-12,,,,,,40.9,,,,,direct_question,am_puck,yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 331
+7,2026-11-13,,,,,,50.9,,,,,contradiction,bm_george (Scottish),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 241
+8,2026-11-14,,,,,,45.5,,,,,nobody_talking_about,am_onyx (Caribbean),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 535
+9,2026-11-15,,,,,,55.0,,,,,surprising_number,hm_omega (Indian),no,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 350
+10,2026-11-16,,,,,,52.0,,,,,contradiction,jm_kumo (Japanese),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Proxy only: whole-channel views on publish day = 206
+11,2026-11-17,,,,,,49.1,,,,,direct_question,zm_yunxi (Chinese),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Channel daily views not yet available (YouTube lag ~2 days)
+12,2026-11-18,,,,,,51.3,,,,,nobody_talking_about,im_nicola (Italian),yes,2026-11-20,Metricool returned no per-video stats (Shorts 4+ not yet listed by Metricool). Channel daily views not yet available (YouTube lag ~2 days)
