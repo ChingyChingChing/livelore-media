@@ -1,0 +1,382 @@
+[
+ {
+  "text": "The last Hunger Games movie opened to under 45 million dollars... and the new one is reportedly out-selling Wicked.",
+  "chunks": [
+   [
+    "THE LAST",
+    2
+   ],
+   [
+    "HUNGER GAMES",
+    4
+   ],
+   [
+    "MOVIE OPENED",
+    5
+   ],
+   [
+    "TO UNDER $45M…",
+    5
+   ],
+   [
+    "AND THE",
+    2
+   ],
+   [
+    "NEW ONE IS",
+    4
+   ],
+   [
+    "REPORTEDLY",
+    4
+   ],
+   [
+    "OUT-SELLING WICKED.",
+    5
+   ]
+  ]
+ },
+ {
+  "text": "The Hunger Games: Sunrise on the Reaping opens this Friday, November 20th.",
+  "pause": 0.2,
+  "chunks": [
+   [
+    "THE HUNGER GAMES:",
+    5
+   ],
+   [
+    "SUNRISE ON",
+    4
+   ],
+   [
+    "THE REAPING",
+    3
+   ],
+   [
+    "OPENS THIS FRIDAY,",
+    5
+   ],
+   [
+    "NOV 20.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "Deadline reports its pre-sales are a post-pandemic record for Lionsgate, and ahead of Wicked at the same point.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "DEADLINE REPORTS",
+    5
+   ],
+   [
+    "ITS PRESALES ARE",
+    5
+   ],
+   [
+    "A POST-PANDEMIC",
+    5
+   ],
+   [
+    "RECORD FOR",
+    3
+   ],
+   [
+    "LIONSGATE,",
+    3
+   ],
+   [
+    "AND AHEAD",
+    3
+   ],
+   [
+    "OF WICKED",
+    3
+   ],
+   [
+    "AT THE",
+    2
+   ],
+   [
+    "SAME POINT.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Tracking jumped from about 60 million to 80 million plus... and some trackers think it could clear 100 million.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "TRACKING JUMPED",
+    4
+   ],
+   [
+    "FROM ABOUT $60M",
+    5
+   ],
+   [
+    "TO $80M+…",
+    4
+   ],
+   [
+    "AND SOME",
+    3
+   ],
+   [
+    "TRACKERS THINK",
+    3
+   ],
+   [
+    "IT COULD",
+    2
+   ],
+   [
+    "CLEAR $100M.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "For context, the 2023 prequel, The Ballad of Songbirds and Snakes, opened to 44.6 million in the US.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "FOR CONTEXT,",
+    3
+   ],
+   [
+    "THE 2023 PREQUEL,",
+    5
+   ],
+   [
+    "THE BALLAD",
+    3
+   ],
+   [
+    "OF SONGBIRDS",
+    3
+   ],
+   [
+    "AND SNAKES,",
+    3
+   ],
+   [
+    "OPENED TO",
+    4
+   ],
+   [
+    "$44.6M",
+    3
+   ],
+   [
+    "IN THE US.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "So why the hype? This one follows a teenage Haymitch, played by Joseph Zada, 24 years before Katniss.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "SO WHY",
+    2
+   ],
+   [
+    "THE HYPE?",
+    3
+   ],
+   [
+    "THIS ONE FOLLOWS",
+    5
+   ],
+   [
+    "A TEENAGE",
+    4
+   ],
+   [
+    "HAYMITCH,",
+    2
+   ],
+   [
+    "PLAYED BY",
+    2
+   ],
+   [
+    "JOSEPH ZADA,",
+    4
+   ],
+   [
+    "24 YEARS",
+    4
+   ],
+   [
+    "BEFORE KATNISS.",
+    5
+   ]
+  ]
+ },
+ {
+  "text": "It's the 50th Hunger Games, a Quarter Quell, with double the tributes. That's a lot of chaos.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "IT'S THE 50TH",
+    5
+   ],
+   [
+    "HUNGER GAMES,",
+    4
+   ],
+   [
+    "A QUARTER QUELL,",
+    4
+   ],
+   [
+    "WITH DOUBLE",
+    3
+   ],
+   [
+    "THE TRIBUTES.",
+    4
+   ],
+   [
+    "THAT'S A LOT",
+    3
+   ],
+   [
+    "OF CHAOS.",
+    2
+   ]
+  ]
+ },
+ {
+  "text": "And it's not just the US. Its Korean title popped up on Google's trending searches in Korea this week.",
+  "pause": 0.25,
+  "chunks": [
+   [
+    "AND IT'S NOT",
+    3
+   ],
+   [
+    "JUST THE US.",
+    3
+   ],
+   [
+    "ITS KOREAN TITLE",
+    5
+   ],
+   [
+    "POPPED UP",
+    3
+   ],
+   [
+    "ON GOOGLE'S",
+    3
+   ],
+   [
+    "TRENDING SEARCHES",
+    4
+   ],
+   [
+    "IN KOREA",
+    3
+   ],
+   [
+    "THIS WEEK.",
+    2
+   ]
+  ]
+ },
+ {
+  "text": "My take? If it clears 100 million, that's the franchise's biggest opening since 2015. Lowkey, this franchise is so back, no cap.",
+  "pause": 0.35,
+  "chunks": [
+   [
+    "MY TAKE?",
+    3
+   ],
+   [
+    "IF IT CLEARS",
+    3
+   ],
+   [
+    "$100M,",
+    3
+   ],
+   [
+    "THAT'S THE",
+    2
+   ],
+   [
+    "FRANCHISE'S BIGGEST",
+    5
+   ],
+   [
+    "OPENING SINCE 2015.",
+    5
+   ],
+   [
+    "LOWKEY,",
+    2
+   ],
+   [
+    "THIS FRANCHISE",
+    4
+   ],
+   [
+    "IS SO BACK,",
+    3
+   ],
+   [
+    "NO CAP.",
+    2
+   ]
+  ]
+ },
+ {
+  "text": "Team young Haymitch, or are you only here for Katniss?",
+  "pause": 0.3,
+  "chunks": [
+   [
+    "TEAM YOUNG",
+    2
+   ],
+   [
+    "HAYMITCH,",
+    2
+   ],
+   [
+    "OR ARE YOU",
+    4
+   ],
+   [
+    "ONLY HERE",
+    4
+   ],
+   [
+    "FOR KATNISS?",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    3
+   ],
+   [
+    "IN SUNDAY'S",
+    3
+   ],
+   [
+    "RECAP.",
+    2
+   ]
+  ]
+ }
+]
