@@ -6,7 +6,7 @@ It can tune topics, hooks, length, voice and post time. It can never override th
 instructions (fact-checking, no criminal-allegation stories, original visuals only, privacy, and the owner's
 approval before anything is scheduled).
 
-Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: length A/B test)
+Last updated: 2026-11-23 (Metricool still has no per-video stats; no changes this week)
 
 ## Topics
 - Mix: ~60% global headline stories, ~40% Asia-angle stories (at least 2 Asia-angle a week).
@@ -17,10 +17,12 @@ Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: le
 ## Hooks (first 3 seconds)
 - Lead with the most surprising number or claim, as a statement or a question.
 - Keep rotating the four hook types (surprising_number, contradiction, direct_question, nobody_talking_about) and
-  log hook_type every time. No winner yet: no per-video stats (as of 2026-11-20).
+  log hook_type every time. No winner yet: no per-video stats (as of 2026-11-23).
+- Make the first on-screen text carry the hook on its own (works on mute). This is how we already build the
+  first frame; keep it.
 
 ## Length
-- TEST (from Short 17): alternate by Short number. Odd-numbered Shorts (17, 19, ...): ~35–40 s of narration.
+- TEST (from Short 17, keep running; Shorts 17 and 18 are not live yet, so no result): alternate by Short number. Odd-numbered Shorts (17, 19, ...): ~35–40 s of narration.
   Even-numbered Shorts (18, 20, ...): ~48–52 s. Hard limit 58 s. Log the real length_s in shorts_log.csv.
 - Why: 15 of 16 Shorts so far ran 45–55 s (only #6 at 40.9 s; #13–16 all ~54.5 s), so we have nothing to compare. The weekly task
   will judge by retention % (avg view duration ÷ length), not raw views, once per-video stats arrive.
@@ -49,6 +51,11 @@ Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: le
 ## Post time
 - 07:00 Asia/Hong_Kong daily. Allowed range for changes: 06:00–22:00 HKT, one daily slot.
 
+## Publishing check (not a strategy change)
+- As of 2026-11-23 Metricool shows Short 6 (Ramayana, due 11-12) still as a draft that never published, and Shorts 17
+  and 18 as drafts (they won't post until approved). Short 19 is scheduled normally. The daily task should keep
+  checking that each approved Short ends up "Published" in Metricool.
+
 ## Changelog
 - 2026-11-07: starting defaults.
 - 2026-11-08: voice speed restored to ~1.27 after files were reverted to old values.
@@ -60,3 +67,7 @@ Last updated: 2026-11-20 (Metricool still has no per-video stats; one change: le
   from Short 17, because 15 of 16 Shorts were 45–55 s and there was nothing to compare. Voice: no data-backed
   winner; keep am_puck 1.3 (current default since Short 13).
   Speed band clarified to 1.22–1.32 (accent voices 1.25 if ever used again).
+- 2026-11-23: weekly review. Metricool still gives no per-video stats (video list stops at Shorts 1-3), so topics,
+  hooks, length test, voice, speed and post time are unchanged. Only 4 days of channel data this week (Nov 16-19:
+  1,103 views, ~276/day vs ~367/day the week before); subs 2 -> 4. Added a note to keep hooks mute-proof (already
+  our practice) and a publishing check after finding Short 6 never published.
