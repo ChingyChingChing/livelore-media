@@ -1,0 +1,307 @@
+[
+ {
+  "text": "Can a messed-up takeout order win best film? Because a Hong Kong movie just did.",
+  "chunks": [
+   [
+    "CAN A",
+    2
+   ],
+   [
+    "MESSED-UP",
+    4
+   ],
+   [
+    "TAKEOUT ORDER",
+    6
+   ],
+   [
+    "WIN BEST FILM?",
+    6
+   ],
+   [
+    "A HONG KONG",
+    5
+   ],
+   [
+    "MOVIE JUST DID.",
+    6
+   ]
+  ]
+ },
+ {
+  "text": "On Sunday in Taipei, We Are Born Good took the top prize at the Golden Horse Awards... basically the Oscars of Chinese-language film.",
+  "chunks": [
+   [
+    "SUNDAY,",
+    3
+   ],
+   [
+    "TAIPEI:",
+    3
+   ],
+   [
+    "\"WE ARE",
+    3
+   ],
+   [
+    "BORN GOOD\"",
+    4
+   ],
+   [
+    "TOOK THE",
+    3
+   ],
+   [
+    "TOP PRIZE",
+    4
+   ],
+   [
+    "AT THE GOLDEN",
+    5
+   ],
+   [
+    "HORSE AWARDS…",
+    5
+   ],
+   [
+    "BASICALLY",
+    4
+   ],
+   [
+    "THE OSCARS OF",
+    5
+   ],
+   [
+    "CHINESE-LANGUAGE",
+    6
+   ],
+   [
+    "FILM.",
+    2
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "The plot? A petty feud over a wrong food order that spirals way out of control. And it's the director's first feature.",
+  "chunks": [
+   [
+    "THE PLOT?",
+    3
+   ],
+   [
+    "A PETTY FEUD",
+    5
+   ],
+   [
+    "OVER A WRONG",
+    5
+   ],
+   [
+    "FOOD ORDER",
+    4
+   ],
+   [
+    "THAT SPIRALS",
+    5
+   ],
+   [
+    "WAY OUT",
+    3
+   ],
+   [
+    "OF CONTROL.",
+    4
+   ],
+   [
+    "AND IT'S THE",
+    4
+   ],
+   [
+    "DIRECTOR'S",
+    4
+   ],
+   [
+    "FIRST FEATURE.",
+    5
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "It also grabbed best original screenplay, after leading every Hong Kong film with nine nominations.",
+  "chunks": [
+   [
+    "IT ALSO GRABBED",
+    6
+   ],
+   [
+    "BEST ORIGINAL",
+    5
+   ],
+   [
+    "SCREENPLAY,",
+    4
+   ],
+   [
+    "AFTER LEADING",
+    5
+   ],
+   [
+    "EVERY HONG KONG",
+    6
+   ],
+   [
+    "FILM WITH",
+    3
+   ],
+   [
+    "9 NOMINATIONS.",
+    5
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "And Hong Kong kept winning. Angela Yoon took best actress for Afterpiece, and Mirror's Anson Kong won best supporting actor.",
+  "chunks": [
+   [
+    "AND HONG KONG",
+    5
+   ],
+   [
+    "KEPT WINNING.",
+    5
+   ],
+   [
+    "ANGELA YUEN",
+    5
+   ],
+   [
+    "TOOK BEST",
+    4
+   ],
+   [
+    "ACTRESS FOR",
+    4
+   ],
+   [
+    "\"AFTERPIECE,\"",
+    5
+   ],
+   [
+    "AND MIRROR'S",
+    5
+   ],
+   [
+    "ANSON KONG WON",
+    6
+   ],
+   [
+    "BEST SUPPORTING",
+    6
+   ],
+   [
+    "ACTOR.",
+    2
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Plus, Shoo Chee won best new director for her debut, Girl. They all ate.",
+  "chunks": [
+   [
+    "PLUS, SHU QI",
+    5
+   ],
+   [
+    "WON BEST",
+    3
+   ],
+   [
+    "NEW DIRECTOR",
+    5
+   ],
+   [
+    "FOR HER DEBUT,",
+    5
+   ],
+   [
+    "\"GIRL.\"",
+    2
+   ],
+   [
+    "THEY ALL ATE.",
+    5
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "My take? Hong Kong cinema is locked in right now, no cap.",
+  "chunks": [
+   [
+    "MY TAKE?",
+    3
+   ],
+   [
+    "HONG KONG",
+    4
+   ],
+   [
+    "CINEMA IS",
+    4
+   ],
+   [
+    "LOCKED IN",
+    4
+   ],
+   [
+    "RIGHT NOW,",
+    4
+   ],
+   [
+    "NO CAP.",
+    3
+   ]
+  ],
+  "pause": 0.25
+ },
+ {
+  "text": "So... would you watch it?",
+  "chunks": [
+   [
+    "SO…",
+    2
+   ],
+   [
+    "WOULD YOU",
+    3
+   ],
+   [
+    "WATCH IT?",
+    4
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    6
+   ],
+   [
+    "IN SUNDAY'S",
+    5
+   ],
+   [
+    "RECAP.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ }
+]
