@@ -1,0 +1,389 @@
+[
+ {
+  "text": "The Weekend made a song called Hong Kong... and it's reportedly only streaming in Asia.",
+  "chunks": [
+   [
+    "THE WEEKND",
+    5
+   ],
+   [
+    "MADE A SONG",
+    5
+   ],
+   [
+    "CALLED",
+    3
+   ],
+   [
+    "\"HONG KONG\"…",
+    4
+   ],
+   [
+    "AND IT'S",
+    4
+   ],
+   [
+    "REPORTEDLY",
+    5
+   ],
+   [
+    "ONLY STREAMING",
+    7
+   ],
+   [
+    "IN ASIA.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "He debuted it live on October 24th, opening night of four sold-out shows at Kai Tack Stadium.",
+  "chunks": [
+   [
+    "HE DEBUTED IT",
+    6
+   ],
+   [
+    "LIVE ON",
+    3
+   ],
+   [
+    "OCT 24,",
+    3
+   ],
+   [
+    "OPENING NIGHT",
+    6
+   ],
+   [
+    "OF 4",
+    3
+   ],
+   [
+    "SOLD-OUT SHOWS",
+    7
+   ],
+   [
+    "AT KAI TAK",
+    5
+   ],
+   [
+    "STADIUM.",
+    4
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "That's reportedly almost 180,000 tickets across four nights. No cap.",
+  "chunks": [
+   [
+    "THAT'S",
+    3
+   ],
+   [
+    "REPORTEDLY",
+    5
+   ],
+   [
+    "ALMOST 180,000",
+    7
+   ],
+   [
+    "TICKETS ACROSS",
+    7
+   ],
+   [
+    "4 NIGHTS.",
+    4
+   ],
+   [
+    "NO CAP.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "The secret sauce? It samples Fay Wong's 1993 Cantopop ballad, Monsoon. Yes, that Fay Wong, the icon from Chungking Express.",
+  "chunks": [
+   [
+    "THE SECRET",
+    5
+   ],
+   [
+    "SAUCE?",
+    3
+   ],
+   [
+    "IT SAMPLES",
+    5
+   ],
+   [
+    "FAYE WONG'S",
+    5
+   ],
+   [
+    "1993",
+    3
+   ],
+   [
+    "CANTOPOP BALLAD,",
+    8
+   ],
+   [
+    "\"MONSOON.\"",
+    4
+   ],
+   [
+    "YES, THAT",
+    4
+   ],
+   [
+    "FAYE WONG,",
+    5
+   ],
+   [
+    "THE ICON FROM",
+    6
+   ],
+   [
+    "\"CHUNGKING",
+    4
+   ],
+   [
+    "EXPRESS.\"",
+    4
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "It dropped October 31st in parts of Asia only, and shot straight to number one on Apple Music in Hong Kong.",
+  "chunks": [
+   [
+    "IT DROPPED",
+    5
+   ],
+   [
+    "OCT 31",
+    3
+   ],
+   [
+    "IN PARTS OF",
+    5
+   ],
+   [
+    "ASIA ONLY,",
+    5
+   ],
+   [
+    "AND SHOT",
+    4
+   ],
+   [
+    "STRAIGHT TO",
+    5
+   ],
+   [
+    "NO. 1",
+    2
+   ],
+   [
+    "ON APPLE MUSIC",
+    7
+   ],
+   [
+    "IN HONG KONG.",
+    6
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Then the video landed November 12th, starring Chinese supermodel Ming Shee, shot in Mong Kok and on Hong Kong Island... karaoke scene included.",
+  "chunks": [
+   [
+    "THEN THE VIDEO",
+    7
+   ],
+   [
+    "LANDED",
+    3
+   ],
+   [
+    "NOV 12,",
+    3
+   ],
+   [
+    "STARRING",
+    4
+   ],
+   [
+    "CHINESE",
+    3
+   ],
+   [
+    "SUPERMODEL",
+    5
+   ],
+   [
+    "MING XI,",
+    4
+   ],
+   [
+    "SHOT IN",
+    3
+   ],
+   [
+    "MONG KOK",
+    4
+   ],
+   [
+    "AND ON HONG",
+    5
+   ],
+   [
+    "KONG ISLAND…",
+    5
+   ],
+   [
+    "KARAOKE SCENE",
+    6
+   ],
+   [
+    "INCLUDED.",
+    4
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "And in mainland China? Universal Music says it had the biggest first-day debut for a non-Mandarin song on Net Ease Cloud Music in five years.",
+  "chunks": [
+   [
+    "AND IN",
+    3
+   ],
+   [
+    "MAINLAND CHINA?",
+    7
+   ],
+   [
+    "UNIVERSAL MUSIC",
+    7
+   ],
+   [
+    "SAYS IT HAD",
+    5
+   ],
+   [
+    "THE BIGGEST",
+    5
+   ],
+   [
+    "FIRST-DAY DEBUT",
+    7
+   ],
+   [
+    "FOR A",
+    2
+   ],
+   [
+    "NON-MANDARIN SONG",
+    8
+   ],
+   [
+    "ON NETEASE",
+    5
+   ],
+   [
+    "CLOUD MUSIC",
+    5
+   ],
+   [
+    "IN 5 YEARS.",
+    5
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "My take? A global superstar going this hard for Cantopop is lowkey a huge W for Hong Kong.",
+  "chunks": [
+   [
+    "MY TAKE?",
+    4
+   ],
+   [
+    "A GLOBAL",
+    4
+   ],
+   [
+    "SUPERSTAR",
+    4
+   ],
+   [
+    "GOING THIS HARD",
+    7
+   ],
+   [
+    "FOR CANTOPOP",
+    6
+   ],
+   [
+    "IS LOWKEY",
+    4
+   ],
+   [
+    "A HUGE W",
+    4
+   ],
+   [
+    "FOR HONG KONG.",
+    7
+   ]
+  ],
+  "pause": 0.25
+ },
+ {
+  "text": "So... should he drop it worldwide?",
+  "chunks": [
+   [
+    "SO…",
+    2
+   ],
+   [
+    "SHOULD HE",
+    4
+   ],
+   [
+    "DROP IT",
+    3
+   ],
+   [
+    "WORLDWIDE?",
+    5
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    7
+   ],
+   [
+    "IN SUNDAY'S",
+    5
+   ],
+   [
+    "RECAP.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ }
+]
