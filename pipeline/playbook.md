@@ -54,10 +54,9 @@ The weekly task refreshes this file. Last updated: 2026-11-23 (research only; st
 
 ## Still unknown (needs our own data)
 - Which hook pattern works for our audience; best length (35–40 s vs ~50 s test from Short 17); best voice (12-Short test finished but no per-video data; am_puck is the default since Short 13); Asia-angle vs global (13 of 16 were Asia-angle, too few global to compare); post time.
-- Per-video stats: Metricool still lists only Shorts 1–3 and returns blank views/watch time for them (checked 2026-11-20 and 2026-11-23), even though its planner shows Shorts 4–16 (except 6) as published with YouTube IDs. Until that is fixed, Studio screenshots are the only per-video source. Reconnecting the YouTube account in Metricool may fix the sync (untested).
-- Viewed-vs-swiped and the retention curve are only in YouTube Studio; tools here can't read them. A screenshot pasted weekly would help.
+- SOLVED 2026-11-24: per-video stats and retention curves now come from pipeline/yt_analytics.py (YouTube Analytics API). "Engaged views ÷ views" is our stand-in for viewed-vs-swiped.
 - Whether the "fresh over evergreen" Shorts change is real (unconfirmed).
-- Whether our 50–55 s Shorts lose most viewers around the ~16 s mark that Metricool's study suggests is typical (needs a retention curve).
+- ANSWERED 2026-11-24: our curves drop hardest at ~5–11 s, earlier than the ~16 s study figure (see strategy.md).
 
 ## Changelog
 - 2026-11-23: corrected the Metricool study line (the -37% is long-form; Shorts watch time per view fell to ~16 s); added mute-proof hooks, curiosity-gap/counter-claim note (unverified numbers), 15–35 s testing advice, vendor-claimed signals (loops/swipes/shares, unverified), list of 2026 recommendation changes. Still no per-video data from our channel.

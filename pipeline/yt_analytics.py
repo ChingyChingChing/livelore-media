@@ -101,7 +101,7 @@ def main():
             curves[vid] = [[r["elapsedVideoTimeRatio"], r["audienceWatchRatio"], r.get("relativeRetentionPerformance")] for r in rows]
         except SystemExit as e:
             curves[vid] = str(e)
-    out = {"pulled_at": dt.datetime.utcnow().isoformat() + "Z", "channel": stats, "videos": vids,
+    out = {"pulled_at": dt.datetime.now(dt.timezone.utc).isoformat(), "channel": stats, "videos": vids,
            "by_day": by_day, "per_video": per_video, "retention_curves": curves}
     json.dump(out, open(os.path.join(HERE, "yt_stats.json"), "w"), indent=1, ensure_ascii=False)
 
