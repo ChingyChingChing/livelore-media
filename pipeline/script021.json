@@ -1,0 +1,20 @@
+[
+ {"text": "75 years of Miss Universe... and a mom just won it for the first time.",
+  "chunks": [["75 YEARS", 4], ["OF MISS UNIVERSE…", 7], ["AND A MOM", 4], ["JUST WON IT", 5], ["FOR THE", 2], ["FIRST TIME.", 4]]},
+ {"text": "And get this... she reportedly walked her first runway in February!",
+  "chunks": [["AND GET THIS…", 5], ["SHE REPORTEDLY", 6], ["WALKED HER", 4], ["FIRST RUNWAY", 6], ["IN FEBRUARY!", 5]], "pause": 0.15},
+ {"text": "Meet Jennifer Barreto, Miss Puerto Rico, crowned this week in San Juan. On home soil!",
+  "chunks": [["MEET JENNIFER", 6], ["BARRETO,", 4], ["MISS PUERTO RICO,", 7], ["CROWNED THIS WEEK", 7], ["IN SAN JUAN.", 5], ["ON HOME SOIL!", 5]], "pause": 0.2},
+ {"text": "Moms and married women were only allowed to compete from 2023.",
+  "chunks": [["MOMS AND", 3], ["MARRIED WOMEN", 6], ["WERE ONLY", 4], ["ALLOWED TO", 4], ["COMPETE FROM 2023.", 7]], "pause": 0.2},
+ {"text": "It's Puerto Rico's sixth crown, and its first in 20 years.",
+  "chunks": [["IT'S PUERTO", 5], ["RICO'S 6TH CROWN,", 6], ["AND ITS FIRST", 5], ["IN 20 YEARS.", 5]], "pause": 0.2},
+ {"text": "Asia watch: the Philippines' Bea Millan Windorski finished third runner-up, so close to crown number five.",
+  "chunks": [["ASIA WATCH:", 4], ["THE PHILIPPINES'", 5], ["BEA MILLAN-", 4], ["WINDORSKI", 4], ["FINISHED 3RD", 5], ["RUNNER-UP,", 4], ["SO CLOSE TO", 4], ["CROWN NO. 5.", 5]], "pause": 0.2},
+ {"text": "Runway rookie to Miss Universe in under a year? She ate, no cap.",
+  "chunks": [["RUNWAY ROOKIE", 6], ["TO MISS UNIVERSE", 7], ["IN UNDER", 3], ["A YEAR?", 3], ["SHE ATE,", 3], ["NO CAP.", 3]], "pause": 0.25},
+ {"text": "So... did the right queen win?",
+  "chunks": [["SO…", 2], ["DID THE RIGHT", 4], ["QUEEN WIN?", 4]], "pause": 0.2},
+ {"text": "Full breakdown in Sunday's recap.",
+  "chunks": [["FULL BREAKDOWN", 7], ["IN SUNDAY'S", 5], ["RECAP.", 3]], "pause": 0.2}
+]
