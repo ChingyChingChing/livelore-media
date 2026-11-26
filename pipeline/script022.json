@@ -1,0 +1,341 @@
+[
+ {
+  "text": "This week's newest K-pop groups... aren't even human.",
+  "chunks": [
+   [
+    "THIS WEEK'S",
+    3
+   ],
+   [
+    "NEWEST K-POP",
+    4
+   ],
+   [
+    "GROUPS…",
+    2
+   ],
+   [
+    "AREN'T EVEN",
+    3
+   ],
+   [
+    "HUMAN.",
+    3
+   ]
+  ]
+ },
+ {
+  "text": "And one of them has no real person behind it at all!",
+  "chunks": [
+   [
+    "AND ONE OF THEM",
+    4
+   ],
+   [
+    "HAS NO",
+    2
+   ],
+   [
+    "REAL PERSON",
+    3
+   ],
+   [
+    "BEHIND IT",
+    3
+   ],
+   [
+    "AT ALL!",
+    2
+   ]
+  ],
+  "pause": 0.15
+ },
+ {
+  "text": "First up: a five-member boy group made fully with AI. It just dropped its debut single, Crush.",
+  "chunks": [
+   [
+    "FIRST UP:",
+    2
+   ],
+   [
+    "A 5-MEMBER",
+    4
+   ],
+   [
+    "BOY GROUP",
+    2
+   ],
+   [
+    "MADE FULLY",
+    3
+   ],
+   [
+    "WITH AI.",
+    3
+   ],
+   [
+    "IT JUST DROPPED",
+    3
+   ],
+   [
+    "ITS DEBUT",
+    3
+   ],
+   [
+    "SINGLE, CRUSH.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Then there's Hybe, the company behind BTS. It teamed up with four North American V-Tubers, including ironmouse, for The Wildcard Club.",
+  "chunks": [
+   [
+    "THEN THERE'S",
+    3
+   ],
+   [
+    "HYBE,",
+    2
+   ],
+   [
+    "THE COMPANY",
+    4
+   ],
+   [
+    "BEHIND BTS.",
+    5
+   ],
+   [
+    "IT TEAMED UP",
+    3
+   ],
+   [
+    "WITH 4 NORTH",
+    3
+   ],
+   [
+    "AMERICAN VTUBERS,",
+    7
+   ],
+   [
+    "INCLUDING",
+    3
+   ],
+   [
+    "IRONMOUSE,",
+    3
+   ],
+   [
+    "FOR THE",
+    2
+   ],
+   [
+    "WILDCARD CLUB.",
+    4
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Real people, animated avatars. Their song Click Flick passed one million YouTube views in three days.",
+  "chunks": [
+   [
+    "REAL PEOPLE,",
+    3
+   ],
+   [
+    "ANIMATED",
+    4
+   ],
+   [
+    "AVATARS.",
+    3
+   ],
+   [
+    "THEIR SONG",
+    2
+   ],
+   [
+    "CLICK FLICK",
+    2
+   ],
+   [
+    "PASSED 1 MILLION",
+    4
+   ],
+   [
+    "YOUTUBE VIEWS",
+    4
+   ],
+   [
+    "IN 3 DAYS.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "And a four-member virtual boy band was set to debut Friday, with a single called Halo.",
+  "chunks": [
+   [
+    "AND A 4-MEMBER",
+    4
+   ],
+   [
+    "VIRTUAL",
+    3
+   ],
+   [
+    "BOY BAND",
+    2
+   ],
+   [
+    "WAS SET TO",
+    3
+   ],
+   [
+    "DEBUT FRIDAY,",
+    4
+   ],
+   [
+    "WITH A SINGLE",
+    3
+   ],
+   [
+    "CALLED HALO.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "But not everyone's vibing. When another AI boy group dropped a pre-debut single in October, some fans called it AI slop, while thousands of real trainees are still waiting to debut.",
+  "chunks": [
+   [
+    "BUT NOT",
+    2
+   ],
+   [
+    "EVERYONE'S VIBING.",
+    5
+   ],
+   [
+    "WHEN ANOTHER",
+    4
+   ],
+   [
+    "AI BOY GROUP",
+    4
+   ],
+   [
+    "DROPPED A",
+    3
+   ],
+   [
+    "PRE-DEBUT SINGLE",
+    5
+   ],
+   [
+    "IN OCTOBER,",
+    4
+   ],
+   [
+    "SOME FANS",
+    2
+   ],
+   [
+    "CALLED IT",
+    3
+   ],
+   [
+    "AI SLOP,",
+    3
+   ],
+   [
+    "WHILE THOUSANDS",
+    3
+   ],
+   [
+    "OF REAL TRAINEES",
+    4
+   ],
+   [
+    "ARE STILL",
+    2
+   ],
+   [
+    "WAITING TO DEBUT.",
+    5
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Lowkey, K-pop's next rivalry might be humans versus code.",
+  "chunks": [
+   [
+    "LOWKEY,",
+    2
+   ],
+   [
+    "K-POP'S NEXT",
+    3
+   ],
+   [
+    "RIVALRY MIGHT BE",
+    5
+   ],
+   [
+    "HUMANS",
+    2
+   ],
+   [
+    "VS CODE.",
+    3
+   ]
+  ],
+  "pause": 0.25
+ },
+ {
+  "text": "So... would you stan an idol that isn't real?",
+  "chunks": [
+   [
+    "SO…",
+    1
+   ],
+   [
+    "WOULD YOU STAN",
+    3
+   ],
+   [
+    "AN IDOL THAT",
+    4
+   ],
+   [
+    "ISN'T REAL?",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    4
+   ],
+   [
+    "IN SUNDAY'S",
+    3
+   ],
+   [
+    "RECAP.",
+    2
+   ]
+  ],
+  "pause": 0.2
+ }
+]
