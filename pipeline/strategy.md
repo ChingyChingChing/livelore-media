@@ -27,10 +27,19 @@ Last updated: 2026-11-24 (first real per-video data: 14 Shorts, retention curves
   Short is pushed.
 
 ## Topics
-- Mix: ~60% global headline stories, ~40% Asia-angle stories (at least 2 Asia-angle a week).
-- Favour: big names people already know (major films/box office, GTA, BTS, Nintendo, Netflix hits, dictionaries/
-  internet culture) with a surprising number or twist. Asia angle = a famous Asian name or a global story with an
-  Asian twist, not a niche local story (data: niche local stories got 32-104 views).
+OWNER INSTRUCTION (2026-11-27): this is a WORLDWIDE pop culture channel. The Asia angle is a flavour, not the default.
+Recent runs drifted: 12 of the last 14 Shorts were logged Asia-angle and 2 of the last 3 were Hong Kong stories.
+- Hard quota per rolling 7 days (count from shorts_log.csv before picking): at least 4 GLOBAL stories (US/UK/Europe/
+  worldwide: Hollywood and box office, streaming hits, music charts, gaming, celebrities, viral internet moments);
+  at most 3 Asia-angle stories; at most 1 Hong Kong story. If a quota is full, pick a global story even if an Asia
+  story looks stronger.
+- Global stories stay global: do not bolt an "Asia watch" line onto a global story to make it count as Asia-angle.
+  Log asia_angle = yes only when the story itself is about Asia or an Asian artist/company.
+- Story discovery order: Google Trends US first, then worldwide WebSearch, then KR and JP, and HK last (HK only as a
+  tie-breaker). Prefer stories that are trending in more than one country.
+- Favour: big names people already know (major films/box office, GTA, BTS, Nintendo, Netflix hits, Taylor Swift-level
+  music news, dictionaries/internet culture) with a surprising number or twist (data: these got 880-1,180 views;
+  niche local stories got 32-104).
 - Avoid: stories older than ~3 days unless there is a fresh angle; any topic or franchise covered in the last 21 days.
 
 ## Hooks (first 3 seconds)
@@ -105,3 +114,4 @@ Last updated: 2026-11-24 (first real per-video data: 14 Shorts, retention curves
   hooks, length test, voice, speed and post time are unchanged. Only 4 days of channel data this week (Nov 16-19:
   1,103 views, ~276/day vs ~367/day the week before); subs 2 -> 4. Added a note to keep hooks mute-proof (already
   our practice) and a publishing check after finding Short 6 never published.
+- 2026-11-27 (owner): worldwide focus restored: per-7-day quota of 4+ global, max 3 Asia-angle, max 1 Hong Kong; Trends US first, HK last. Reason: 12/14 recent Shorts were Asia-angle; global big-name stories got the most views.
