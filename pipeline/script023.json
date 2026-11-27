@@ -1,0 +1,20 @@
+[
+ {"text": "Why did Ariana Grande and Disney both get beat this Thanksgiving?",
+  "chunks": [["WHY DID", 2], ["ARIANA GRANDE", 4], ["AND DISNEY", 3], ["BOTH GET BEAT", 3], ["THIS THANKSGIVING?", 5]]},
+ {"text": "And the winner wasn't even a new movie!",
+  "chunks": [["AND THE WINNER", 3], ["WASN'T EVEN", 3], ["A NEW MOVIE!", 3]], "pause": 0.15},
+ {"text": "Focker In-Law, the fourth Meet the Parents film, with Ben Stiller and Robert De Niro, made about five point three million dollars on opening day.",
+  "chunks": [["FOCKER IN-LAW,", 4], ["THE 4TH", 2], ["MEET THE PARENTS", 4], ["FILM,", 1], ["WITH BEN STILLER", 4], ["AND ROBERT", 3], ["DE NIRO,", 3], ["MADE ABOUT", 3], ["$5.3 MILLION", 6], ["ON OPENING DAY.", 4]], "pause": 0.2},
+ {"text": "On a reported ninety million dollar budget.",
+  "chunks": [["ON A REPORTED", 4], ["$90 MILLION", 5], ["BUDGET.", 2]], "pause": 0.15},
+ {"text": "Disney's brand-new witch movie, Hexed, did better, about seven point six million. But both are tracking below forecasts.",
+  "chunks": [["DISNEY'S", 2], ["BRAND-NEW", 2], ["WITCH MOVIE,", 3], ["HEXED,", 2], ["DID BETTER,", 3], ["ABOUT", 2], ["$7.6 MILLION.", 6], ["BUT BOTH ARE", 3], ["TRACKING BELOW", 4], ["FORECASTS.", 3]], "pause": 0.2},
+ {"text": "Meanwhile, the Hunger Games prequel, in week two, made fifteen million on Wednesday alone.",
+  "chunks": [["MEANWHILE,", 3], ["THE HUNGER GAMES", 4], ["PREQUEL,", 2], ["IN WEEK 2,", 3], ["MADE $15 MILLION", 6], ["ON WEDNESDAY", 4], ["ALONE.", 2]], "pause": 0.2},
+ {"text": "Lowkey, big names aren't a guaranteed W anymore.",
+  "chunks": [["LOWKEY,", 2], ["BIG NAMES", 2], ["AREN'T A", 2], ["GUARANTEED W", 4], ["ANYMORE.", 3]], "pause": 0.25},
+ {"text": "So... Focker In-Law or Hexed this weekend?",
+  "chunks": [["SO…", 1], ["FOCKER IN-LAW", 4], ["OR HEXED", 3], ["THIS WEEKEND?", 4]], "pause": 0.2},
+ {"text": "Full breakdown in Sunday's recap.",
+  "chunks": [["FULL BREAKDOWN", 4], ["IN SUNDAY'S", 3], ["RECAP.", 2]], "pause": 0.2}
+]
