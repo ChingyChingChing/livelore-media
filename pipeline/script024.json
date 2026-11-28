@@ -1,0 +1,311 @@
+[
+ {
+  "text": "Avengers: Doomsday just passed one hundred million dollars in ticket sales.",
+  "chunks": [
+   [
+    "AVENGERS:",
+    3
+   ],
+   [
+    "DOOMSDAY",
+    3
+   ],
+   [
+    "JUST PASSED",
+    3
+   ],
+   [
+    "$100 MILLION",
+    6
+   ],
+   [
+    "IN TICKET SALES.",
+    4
+   ]
+  ]
+ },
+ {
+  "text": "And it doesn't even open for three weeks!",
+  "chunks": [
+   [
+    "AND IT DOESN'T",
+    3
+   ],
+   [
+    "EVEN OPEN",
+    2
+   ],
+   [
+    "FOR 3 WEEKS!",
+    3
+   ]
+  ],
+  "pause": 0.15
+ },
+ {
+  "text": "Early tracking reportedly points to a two hundred seventy million dollar opening weekend, the highest first forecast that tracker has ever made.",
+  "chunks": [
+   [
+    "EARLY TRACKING",
+    4
+   ],
+   [
+    "REPORTEDLY",
+    4
+   ],
+   [
+    "POINTS TO A",
+    3
+   ],
+   [
+    "$270 MILLION",
+    7
+   ],
+   [
+    "OPENING WEEKEND,",
+    4
+   ],
+   [
+    "THE HIGHEST",
+    3
+   ],
+   [
+    "FIRST FORECAST",
+    4
+   ],
+   [
+    "THAT TRACKER",
+    3
+   ],
+   [
+    "HAS EVER MADE.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Robert Downey Junior is back, but this time as the villain, Doctor Doom.",
+  "chunks": [
+   [
+    "ROBERT DOWNEY JR.",
+    5
+   ],
+   [
+    "IS BACK,",
+    2
+   ],
+   [
+    "BUT THIS TIME",
+    3
+   ],
+   [
+    "AS THE VILLAIN,",
+    4
+   ],
+   [
+    "DOCTOR DOOM.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "And in a new teaser, Ian McKellen's Magneto tries to rip off Doom's mask... and it does not go well.",
+  "chunks": [
+   [
+    "AND IN A",
+    2
+   ],
+   [
+    "NEW TEASER,",
+    3
+   ],
+   [
+    "IAN McKELLEN'S",
+    4
+   ],
+   [
+    "MAGNETO",
+    3
+   ],
+   [
+    "TRIES TO RIP",
+    3
+   ],
+   [
+    "OFF DOOM'S MASK…",
+    4
+   ],
+   [
+    "AND IT DOES",
+    3
+   ],
+   [
+    "NOT GO WELL.",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "But there's a catch. Dune: Part Three opens the same day, December eighteenth, and it has the US IMAX screens.",
+  "chunks": [
+   [
+    "BUT THERE'S",
+    2
+   ],
+   [
+    "A CATCH.",
+    2
+   ],
+   [
+    "DUNE: PART 3",
+    4
+   ],
+   [
+    "OPENS THE",
+    2
+   ],
+   [
+    "SAME DAY,",
+    2
+   ],
+   [
+    "DECEMBER 18,",
+    5
+   ],
+   [
+    "AND IT HAS",
+    2
+   ],
+   [
+    "THE US",
+    2
+   ],
+   [
+    "IMAX SCREENS.",
+    4
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "The record to beat? Spider-Man: Brand New Day, with about three hundred sixty million.",
+  "chunks": [
+   [
+    "THE RECORD",
+    2
+   ],
+   [
+    "TO BEAT?",
+    2
+   ],
+   [
+    "SPIDER-MAN:",
+    3
+   ],
+   [
+    "BRAND NEW DAY,",
+    3
+   ],
+   [
+    "WITH ABOUT",
+    2
+   ],
+   [
+    "$360 MILLION.",
+    7
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "For scale, Avengers: Endgame opened to three hundred fifty-seven million.",
+  "chunks": [
+   [
+    "FOR SCALE,",
+    2
+   ],
+   [
+    "AVENGERS:",
+    3
+   ],
+   [
+    "ENDGAME",
+    3
+   ],
+   [
+    "OPENED TO",
+    3
+   ],
+   [
+    "$357 MILLION.",
+    7
+   ]
+  ],
+  "pause": 0.15
+ },
+ {
+  "text": "Lowkey, Dunesday is giving Barbenheimer, but bigger.",
+  "chunks": [
+   [
+    "LOWKEY,",
+    2
+   ],
+   [
+    "DUNESDAY",
+    3
+   ],
+   [
+    "IS GIVING",
+    2
+   ],
+   [
+    "BARBENHEIMER,",
+    4
+   ],
+   [
+    "BUT BIGGER.",
+    3
+   ]
+  ],
+  "pause": 0.25
+ },
+ {
+  "text": "So, which one are you seeing first?",
+  "chunks": [
+   [
+    "SO, WHICH ONE",
+    3
+   ],
+   [
+    "ARE YOU",
+    2
+   ],
+   [
+    "SEEING FIRST?",
+    3
+   ]
+  ],
+  "pause": 0.2
+ },
+ {
+  "text": "Full breakdown in Sunday's recap.",
+  "chunks": [
+   [
+    "FULL BREAKDOWN",
+    4
+   ],
+   [
+    "IN SUNDAY'S",
+    3
+   ],
+   [
+    "RECAP.",
+    2
+   ]
+  ],
+  "pause": 0.2
+ }
+]
